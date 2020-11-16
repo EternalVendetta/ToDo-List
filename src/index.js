@@ -1,6 +1,10 @@
+// Library
 import React from 'react';
 import ReactDOM from 'react-dom';
+// CSS & Icons
 import './index.css';
+import 'font-awesome/css/font-awesome.min.css'
+// Component
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
